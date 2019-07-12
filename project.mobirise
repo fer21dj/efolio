@@ -23,6 +23,8 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
     "versionFirst": "4.6.7",
     "uniqCompNum": 48,
     "versionPublish": "4.6.7"
