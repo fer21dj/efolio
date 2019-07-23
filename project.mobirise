@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fernando Djingga: E-Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "page9.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 61,
+    "uniqCompNum": 62,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -924,7 +924,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>I have been to several places.</p><p>- Malang, Indonesia</p><p>- Phuket, Thailand</p><p>- Sapporo, Japan</p><p>- Hong Kong</p>",
+          "text": "<p>I've been to 4 cities outside of my hometown, and from each of the places I have been to, I was not only able to understand the cultural differences in each of these places, but I was also able to obtain valuable moral lessons from both observation and interaction with the locals.</p><p>- <b>Malang, Indonesia</b></p><p><b><br></b></p><p><b>- Phuket, Thailand</b></p><p><br></p><p><b>- Sapporo, Japan</b></p><p><br></p><p><b>- Hong Kong</b></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1066,7 +1066,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>The following are the list of achievements I recieved in addition to the competitions that I participated in.</p>",
+          "text": "<p>The following are my academic achievements from 2015-2019. </p><p>Some of these were a result of participating in competitions/contests.</p><p><br></p><p>2019:</p><p>- <b>Third Place Award</b> for outstanding achievement in the American Mathematics Competition 12</p><p>- <b>Certificate of Participation</b> for the Fermat Contest by the University of Waterloo in the year 2019</p><p><br></p><p>2018:</p><p>- <b>Certificate of DIstinction</b> for the Canadian Senior Mathematics Contest by the University of Waterloo in the year 2018</p><p>- <b>Certificate of Graduation</b> for completing the \"Think with C++\" coding program from Koding Next</p><p>- <b>Certificate of Graduation</b> for completing the \"Think with C\" coding program from Koding Next</p><p>- <b>Certificate of Appreciation</b> for \"Infinitics 2 (Interminably Finding True Knowledge in Mathematics 2) Mathematics Intelligence Race\" by Universitas Pelita Harapan</p><p>- <b>Certificate of Academic Achievement</b> for attaining a grade of A* on 6 and A on 1 Cambridge IGCSE subject examinations in the May/June 2018 examination session</p><p>- <b>Bronze Award</b> for SASMO (Singapore and Asian Schools Math Olumpiad) for outstanding achievement in Grade 10 Division</p><p>- <b>Certificate of Completion</b> for completing a tutorial series of Microsoft Touch Develop application and game development creative coding</p><p><br></p><p>2016:</p><p>- <b>Certificate of Completion</b> for completing the \"Captivate Your Audience\" program at Merry Riana School of Public Speaking</p><p>- <b>Certificate of Achivement</b> for sucessfully completing the required studies for FR C1.2.2 at English First.</p><p><br></p><p>2015:</p><p>- <b>Certificate of High Distinction</b> for Mathematics for ICAS (International Competitions and Assessments for Schools) Year 8</p><p>- <b>Certificate of Credit</b> for Science for ICAS (International Competitions and Assessments for Schools) Year 8</p><p>- <b>Certificate of Merit</b> for English for ICAS (International Competitions and Assessments for Schools) Year 8</p><p><br></p><p><br></p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -1367,40 +1367,6 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "<br>Who Am I ?<br>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-o"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -1492,12 +1458,41 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Who Am I?<br>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Interests, and Hobbies</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Personal Statement</a>  ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1p"
         }
       ]
     },
