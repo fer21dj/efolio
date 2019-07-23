@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fernando Djingga: E-Portfolio",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,7 +27,8 @@
     "noImageResize": "",
     "versionFirst": "4.6.7",
     "uniqCompNum": 61,
-    "versionPublish": "4.6.7"
+    "versionPublish": "4.6.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -923,7 +924,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>I have been to several places.</p><p>- Malang, Indonesia</p><p>- Phuket, Thailand</p><p>- Sapporo, Japan</p><p>- Hong Kong</p>",
           "_tags": [
             "Theme"
           ],
@@ -1065,7 +1066,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>The following are the list of achievements I recieved in addition to the competitions that I participated in.</p>",
           "_tags": [
             "Theme"
           ],
