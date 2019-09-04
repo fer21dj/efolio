@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Fernando Djingga: E-Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "page12.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 67,
+    "uniqCompNum": 70,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -511,7 +511,7 @@
       "settings": {
         "meta_descr": "Site Maker Description",
         "title": "Extracurricular",
-        "order": 4
+        "order": 7
       },
       "components": [
         {
@@ -653,7 +653,7 @@
       "settings": {
         "meta_descr": "Site Generator Description",
         "title": "Volunteer Work",
-        "order": 3
+        "order": 6
       },
       "components": [
         {
@@ -795,7 +795,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "Places",
-        "order": 8
+        "order": 11
       },
       "components": [
         {
@@ -930,87 +930,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-1u"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-13"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            },
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-1q"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            },
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-1r"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            },
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-1s"
-        },
-        {
-          "_params": {
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            },
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map2",
-          "_anchor": "map2-1t"
         }
       ]
     },
@@ -1018,7 +937,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Competitions and Achievements",
-        "order": 7
+        "order": 10
       },
       "components": [
         {
@@ -1160,7 +1079,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Courses Attended",
-        "order": 6
+        "order": 9
       },
       "components": [
         {
@@ -1302,7 +1221,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Education and Academics",
-        "order": 2
+        "order": 5
       },
       "components": [
         {
@@ -1568,7 +1487,7 @@
           },
           "title": "Who Am I?<br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Interests, and Hobbies</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Resume</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Personal Statement</a>  ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">About Me</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Resume</a>   ",
           "_tags": [
             "Theme"
           ],
@@ -1581,7 +1500,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "Internships",
-        "order": 5
+        "order": 8
       },
       "components": [
         {
@@ -1968,6 +1887,196 @@
           ],
           "_name": "content1",
           "_anchor": "content1-1o"
+        }
+      ]
+    },
+    "page14.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "About Me",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/me-124x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fernando Djingga's E-Portfolio</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1v"
+        }
+      ]
+    },
+    "page16.html": {
+      "settings": {
+        "meta_descr": "Web Builder Description",
+        "title": "CV/Resume",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/me-124x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Fernando Djingga's E-Portfolio</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1x"
         }
       ]
     }
