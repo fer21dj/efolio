@@ -2002,20 +2002,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-20"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Hello, my name is Fernando Djingga. From a young age, I have great interest in activities which involve problem solving, a<span style=\"font-size: 1.07rem;\">nd strategy. My hobbies include playing online chess, and several racket sports, because they heavily depend on the strength of one's mind and mentality in order to win and improve. I have always had the will to do well in Mathematics, because it is the pure language of science -- the study of the physical world around us.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">It is through this particular interest that I am hoping to continue my career in Computer Science, due to it's dependency on mathematical, and problem-solving-related skill. I believe that with a strong mentality, and will to push myself in everything I do, I can succeed in this subject, and will go on to become a part of an important, global team which contributes to the betterment of the world in the field of Computer Science.</span></p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p>Hello, my name is Fernando Djingga. From a young age, I have great interest in activities which involve problem solving, a<span style=\"font-size: 1.07rem;\">nd strategy. My hobbies include playing online chess, and several racket sports, because they heavily depend on the strength of one's mind and mentality in order to win and improve. I have always had the will to do well in Mathematics, because it is the pure language of science -- the study of the physical world around us.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">It is through this particular interest that I am hoping to continue my career in Computer Science, due to it's dependency on mathematical, and problem-solving-related skill. I believe that with a strong mentality, and will to push myself in everything I do, I can succeed in this subject, and will go on to become a part of an important, global team which contributes to the betterment of the world in the field of Computer Science.</span></p>",
           "_tags": [
             "Theme"
           ],
